@@ -9,7 +9,7 @@ import urllib.error
 # CONFIG
 # ============================================================
 
-GEMINI_API_KEY = "PASTE_YOUR_GEMINI_KEY_HERE"
+GEMINI_API_KEY = "AIzaSyAnt-oaZd0V1zDci65xNrNq-nYoGo_jIKE"
 
 MODEL = "gemini-2.5-flash"
 
