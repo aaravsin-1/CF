@@ -11,7 +11,7 @@ import urllib.error
 
 GEMINI_API_KEY = "AIzaSyAnt-oaZd0V1zDci65xNrNq-nYoGo_jIKE"
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 
 # ============================================================
 # GEMINI
